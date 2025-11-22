@@ -18,7 +18,7 @@ A Multi-Modal Retrieval-Augmented Generation (RAG) system capable of ingesting, 
    pip install -r requirements.txt
    ```
 4. **Set up Environment Variables**:
-   - Copy `.env.example` to `.env`.
+   - Copy '.env`.
    - Add your `GOOGLE_API_KEY` and `LLAMA_CLOUD_API_KEY`.
 
 ## Usage
